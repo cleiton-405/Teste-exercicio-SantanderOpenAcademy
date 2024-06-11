@@ -7,6 +7,3 @@
 Adicionei a linha
 
 Novamente uma linha
-Mais uma linha
-
-branch test
