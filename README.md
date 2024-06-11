@@ -1,3 +1,3 @@
 # Curso Digital: Git
 
-*comando git push
+*comando git push (novo)
