@@ -3,3 +3,5 @@
 *comando git push (novo)
 *comando git pull
 *comando git fetch
+
+Adicionei a linha
