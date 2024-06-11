@@ -2,3 +2,4 @@
 
 *comando git push (novo)
 *comando git pull
+*comando git fetch
